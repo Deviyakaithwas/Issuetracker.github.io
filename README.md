@@ -5,4 +5,7 @@ project: ISSUE TRACKER
 *The user provides essential details about the issue, such as a descriptive title, a detailed description of the problem or task, and any relevant attachments or screenshots. 
 THE SEVER IS RUNNING IN localhost :7000
 
-the hosted link: http://localhost:7000/
+the hosted link: https://easy-lamb-underclothes.cyclic.app/
+
+and server is running on port : localhost:7000 
+ http://localhost:7000/
